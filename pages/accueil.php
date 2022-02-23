@@ -13,4 +13,4 @@ for($i = 0;$i < $nbr;$i++){
     print "<br>".$d['nom_ville'];
 }
 */
-print "branche ajout1";
+print "branche ajout1 ***";
